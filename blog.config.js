@@ -11,7 +11,7 @@ const BLOG = {
   APPEARANCE: 'light', // ['light', 'dark', 'auto'], // light 日间模式 ， dark夜间模式， auto根据时间和主题自动夜间模式
 
   AUTHOR: '慕溪笔谈', // 您的昵称 例如 tangly1024
-  BIO: '一个数据分析的学习分享博客🍚', // 作者简介
+  BIO: '一个数据分析的学习分享博客', // 作者简介
   LINK: 'https://me.mangoyun.cc', // 网站地址
   KEYWORDS: 'Notion next, 机器学习,人工智能,数据分析,Notion博客', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
