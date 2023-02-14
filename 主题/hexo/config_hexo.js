@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['Hi，我是一个程序员', '欢迎来到我的博客🎉'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS : [ '你好，我是数据分析师傅' , '欢迎来到我的博客🎉' ], / 首页大图标文字
 
   HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
 
